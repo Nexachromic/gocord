@@ -1,4 +1,4 @@
-module gocord
+module github.com/Nexachromic/gocord
 
 go 1.20
 
